@@ -1,2 +1,3 @@
-#Ex da Faculdade\n;
+#Ex da Faculdade
+
 Práticas dos conhecimentos absorvidos nas aulças da faculdade.
