@@ -1,9 +1,9 @@
-# 🎮 Jogos em C - Adivinhação e Jogo da Forca
+# 🎮 Jogos em C - Adivinhação e Jogo de jokempo
 
 Repositório criado para armazenar dois projetos simples desenvolvidos em **C** durante a faculdade:
 
 - 🔢 **Jogo da Adivinhação** → o computador escolhe um número e o jogador tenta adivinhar.  
-- 🪢 **Jogo da Forca** → clássico jogo de palavras, onde o jogador tenta descobrir a palavra secreta antes de errar muitas vezes.  
+- 🪢 **Jogo de Jokempo** → clássico jogo de pedra,papel e tesoura, onde o jogador tenta diaputa com a máquina.  
 
 ## 🚀 Tecnologias
 - Linguagem **C**
