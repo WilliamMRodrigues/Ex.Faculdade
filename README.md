@@ -3,7 +3,7 @@
 Repositório criado para armazenar dois projetos simples desenvolvidos em **C** durante a faculdade:
 
 - 🔢 **Jogo da Adivinhação** → o computador escolhe um número e o jogador tenta adivinhar.  
-- 🪢 **Jogo de Jokempo** → clássico jogo de pedra,papel e tesoura, onde o jogador tenta diaputa com a máquina.  
+- 👊 **Jogo de Jokempo** → clássico jogo de pedra,papel e tesoura, onde o jogador tenta diaputa com a máquina.  
 
 ## 🚀 Tecnologias
 - Linguagem **C**
